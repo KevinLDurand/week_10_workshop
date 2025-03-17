@@ -1,0 +1,15 @@
+pytinytex
+jupyter
+ipykernel
+kaleido
+itables
+plotly<6
+pandas
+pyyaml
+openpyxl
+quarto-cli
+openai
+scikit-learn
+nbformat
+country_converter
+
